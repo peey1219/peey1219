@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Piwai Melissa
 - 👀 I’m interested in Web development and robotics...
-- 🌱 I’m currently learning Computer Engineering
+- 🌱 I’m currently studying Computer Engineering at UZ
 - 📫 How to reach me haisapiwai@gmail.com
 
 
